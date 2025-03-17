@@ -1254,6 +1254,8 @@ section,
   color: var(--accent-color);
 }
 
+.circular--portrait { position: relative; width: 120px; height: 120px; overflow: hidden; border-radius: 50%; } 
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
